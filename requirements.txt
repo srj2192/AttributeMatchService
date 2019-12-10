@@ -1,0 +1,14 @@
+aniso8601==8.0.0
+Flask==1.1.1
+flask-restful==0.3.7
+itsdangerous==1.1.0
+Mako==1.1.0
+MarkupSafe==1.1.1
+marshmallow==3.3.0
+requests==2.22.0
+six==1.13.0
+Werkzeug==0.16.0
+pandas==0.25.3
+chardet==3.0.4
+fuzzywuzzy==0.17.0
+python-Levenshtein==0.12.0
